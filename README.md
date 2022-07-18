@@ -1,5 +1,7 @@
 # fe-generate-word
 
+blog: https://juejin.cn/post/7121603428350066719/
+
 ## Project setup
 ```
 npm install
